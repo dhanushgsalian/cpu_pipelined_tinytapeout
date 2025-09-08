@@ -17,4 +17,4 @@ By driving the Clk, Reset and giving the address and insturction to Program memo
 
 ## External hardware
 
-NO
+No
